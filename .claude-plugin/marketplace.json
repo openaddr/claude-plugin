@@ -1,5 +1,6 @@
 {
   "name": "openaddr-plugins",
+  "description": "Claude Code plugins by openaddr (grsai: image generation via the Grsai gpt-image-2 API).",
   "owner": {
     "name": "openaddr"
   },
