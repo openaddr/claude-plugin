@@ -1,0 +1,6 @@
+{
+  "name": "grsai",
+  "version": "0.1.0",
+  "description": "Generate images via the Grsai gpt-image-2 API through a bundled Windows CLI (text-to-image and image-to-image).",
+  "author": "openaddr"
+}
