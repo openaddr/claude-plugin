@@ -11,7 +11,9 @@ A Claude Code plugin marketplace by @openaddr.
 ## Install
 
 ```
-/plugin marketplace add <this-repo-git-url>
+/plugin marketplace add openaddr/claude-plugin
+# (use the owner/repo shorthand or a .git URL — a bare https:// URL only fetches
+#  marketplace.json and relative plugin paths like ./plugins/grsai won't resolve)
 /plugin install grsai@openaddr-plugins
 ```
 
