@@ -12,7 +12,7 @@ A Claude Code plugin marketplace by @openaddr.
 
 ```
 /plugin marketplace add <this-repo-git-url>
-/plugin install grsai@claude-plugins
+/plugin install grsai@openaddr-plugins
 ```
 
 Each plugin may need first-run setup — see the plugin's own `README.md` / `SKILL.md`.
